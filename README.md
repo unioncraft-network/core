@@ -1,0 +1,4 @@
+core
+====
+
+Bukkit Plugin
